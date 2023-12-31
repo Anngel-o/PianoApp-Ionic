@@ -1,0 +1,7 @@
+{
+  "name": "appPiano",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
